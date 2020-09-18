@@ -1,0 +1,12 @@
+.foo::part(tab) {
+  background: #e3e3e3;
+}
+.title {
+  font-weight: 900;
+}
+.jumbotron {
+  color: #7c40a1;
+}
+.lead {
+  font-weight: 500;
+}

@@ -1,0 +1,40 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <title></title>
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Inter%3A400%2C700&amp;subset=latin&amp;display=optional"
+      crossorigin="anonymous" />
+    <link
+      href="../node_modules/bootstrap/dist/css/bootstrap.min.css"
+      crossorigin="anonymous"
+      rel="stylesheet" />
+
+    <link
+      href="../main.css"
+      crossorigin="anonymous"
+      rel="stylesheet" />
+
+    <style></style>
+  </head>
+  <body>
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4 title">
+          Startup Business Goals
+        </h1>
+        <header-element
+          class="foo"></header-element>
+        <p class="lead">
+          We focused on providing high-quality service and customer
+          satisfaction.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
